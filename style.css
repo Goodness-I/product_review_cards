@@ -140,7 +140,7 @@ h3 {
   width: 15px;
   height: 16px;
   background-image: url(/images/icon-cart.svg);
-}
+} 
 .btn:is(:hover, :focus) {
   background-color: var(--clr-primary-500);
 }
