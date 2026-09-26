@@ -31,4 +31,3 @@ Card components
 ## Author
 
 Iroanya, Goodness C.
- 
